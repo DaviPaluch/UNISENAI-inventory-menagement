@@ -122,8 +122,13 @@
 
 **URL**: `DELETE /products/{id}`  
 **Descrição**: Remove um produto pelo ID.  
+
+![alt text](image-4.png)
+
 **Exemplo de Resposta**:  
 **Status Code**: `204 No Content`  
 **Corpo da Resposta**: (vazio)  
 
 ---
+
+## **Rotas de Movimentação de Estoque**
